@@ -12,4 +12,5 @@ Crafting objective has two properties, `amount` and `left`. Amount is current am
 #### Example: `pickup magic_key 5 events:reward`
 
 # How to Install
-Download BetonPickupItemObjective.jar, place this in your plugins folder and restart your server. 
+Download BetonPickupItemObjective.jar from here(https://github.com/hugu1026/BetonPickupItemObjective/releases),
+place this in your plugins folder and restart your server. 
