@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: hugu1026.com.github.betonpickupitemobjective.BetonPickupIt
+ emObjective
+

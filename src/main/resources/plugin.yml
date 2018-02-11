@@ -1,0 +1,4 @@
+name: BetonPickupItemObjective
+version: ${project.version}
+main: hugu1026.com.github.betonpickupitemobjective.BetonPickupItemObjective
+depend: [BetonQuest]
